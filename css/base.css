@@ -292,6 +292,19 @@ html {
         transform: rotate(12deg);
     }
 
+    .seemore-link {
+        margin: 25px 40px;
+    }
+
+    .seemore {
+        margin-left: 10vw;
+        border: none;
+    }
+
+    .more-qr__img {
+        width: 80px;
+        margin: 0;
+    }
 }
 
 /* Mobile Mini */
